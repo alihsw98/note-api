@@ -17,5 +17,13 @@
     "url": "https://github.com/alihsw98/note-api/issues"
   },
   "homepage": "https://github.com/alihsw98/note-api#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.10.1"
+  }
 }
